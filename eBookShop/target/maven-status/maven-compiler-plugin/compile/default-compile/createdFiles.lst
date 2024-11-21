@@ -1,0 +1,16 @@
+com\mycompany\ebookshop\bo\BookBO.class
+com\mycompany\ebookshop\JakartaRestConfiguration.class
+com\mycompany\ebookshop\bo\ShoppingCartBO.class
+com\mycompany\ebookshop\dao\BookMapper.class
+com\mycompany\ebookshop\controller\BackToSearchServlet.class
+com\mycompany\ebookshop\service\DBConnectionService.class
+com\mycompany\ebookshop\dao\BookDAO.class
+com\mycompany\ebookshop\dao\DBMapper.class
+com\mycompany\ebookshop\controller\AddToCartServlet.class
+com\mycompany\ebookshop\dto\BookDTO.class
+com\mycompany\ebookshop\controller\IndexServlet.class
+com\mycompany\ebookshop\controller\SearchBookServlet.class
+com\mycompany\ebookshop\dto\CartDTO.class
+com\mycompany\ebookshop\controller\ViewShoppingCartServlet.class
+com\mycompany\ebookshop\resources\JakartaEE10Resource.class
+com\mycompany\ebookshop\controller\GoSearchPageServlet.class

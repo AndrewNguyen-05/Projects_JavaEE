@@ -1,0 +1,16 @@
+D:\Program Files\J2EE\Netbeans\eBookShop\src\main\java\com\mycompany\ebookshop\controller\SearchBookServlet.java
+D:\Program Files\J2EE\Netbeans\eBookShop\src\main\java\com\mycompany\ebookshop\controller\GoSearchPageServlet.java
+D:\Program Files\J2EE\Netbeans\eBookShop\src\main\java\com\mycompany\ebookshop\controller\IndexServlet.java
+D:\Program Files\J2EE\Netbeans\eBookShop\src\main\java\com\mycompany\ebookshop\service\DBConnectionService.java
+D:\Program Files\J2EE\Netbeans\eBookShop\src\main\java\com\mycompany\ebookshop\dto\BookDTO.java
+D:\Program Files\J2EE\Netbeans\eBookShop\src\main\java\com\mycompany\ebookshop\bo\ShoppingCartBO.java
+D:\Program Files\J2EE\Netbeans\eBookShop\src\main\java\com\mycompany\ebookshop\bo\BookBO.java
+D:\Program Files\J2EE\Netbeans\eBookShop\src\main\java\com\mycompany\ebookshop\dao\BookDAO.java
+D:\Program Files\J2EE\Netbeans\eBookShop\src\main\java\com\mycompany\ebookshop\controller\ViewShoppingCartServlet.java
+D:\Program Files\J2EE\Netbeans\eBookShop\src\main\java\com\mycompany\ebookshop\dao\BookMapper.java
+D:\Program Files\J2EE\Netbeans\eBookShop\src\main\java\com\mycompany\ebookshop\dao\DBMapper.java
+D:\Program Files\J2EE\Netbeans\eBookShop\src\main\java\com\mycompany\ebookshop\controller\BackToSearchServlet.java
+D:\Program Files\J2EE\Netbeans\eBookShop\src\main\java\com\mycompany\ebookshop\resources\JakartaEE10Resource.java
+D:\Program Files\J2EE\Netbeans\eBookShop\src\main\java\com\mycompany\ebookshop\controller\AddToCartServlet.java
+D:\Program Files\J2EE\Netbeans\eBookShop\src\main\java\com\mycompany\ebookshop\JakartaRestConfiguration.java
+D:\Program Files\J2EE\Netbeans\eBookShop\src\main\java\com\mycompany\ebookshop\dto\CartDTO.java
