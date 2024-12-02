@@ -1,0 +1,9 @@
+com\mycompany\logindemo\bo\LoginBO.class
+com\mycompany\logindemo\controller\LoginServlet.class
+com\mycompany\logindemo\dao\DBMapper.class
+com\mycompany\logindemo\resources\JakartaEE10Resource.class
+com\mycompany\logindemo\service\DBConnectionService.class
+com\mycompany\logindemo\dao\LoginMapper.class
+com\mycompany\logindemo\controller\IndexServlet.class
+com\mycompany\logindemo\JakartaRestConfiguration.class
+com\mycompany\logindemo\dto\LoginDTO.class
