@@ -1,0 +1,8 @@
+com\mycompany\registration\dto\RegistrationDTO.class
+com\mycompany\registration\JakartaRestConfiguration.class
+com\mycompany\registration\bo\RegistrationBO.class
+com\mycompany\registration\dao\RegistrationMapper.class
+com\mycompany\registration\dao\DBMapper.class
+com\mycompany\registration\resources\JakartaEE10Resource.class
+com\mycompany\registration\controller\RegistrationServlet.class
+com\mycompany\registration\service\DBConnectionService.class
